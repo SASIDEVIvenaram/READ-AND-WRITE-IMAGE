@@ -51,11 +51,12 @@ Output:
 ![image](https://github.com/SASIDEVIvenaram/READ-AND-WRITE-IMAGE/assets/118707332/f6c544fd-862b-429e-b6f7-ce43b14fb6d0)
 
 iii) #Find the shape of the Image
+
 ```
 print(image.shape)
 ```
-Output:
 
+Output:
 
 ![image](https://github.com/SASIDEVIvenaram/READ-AND-WRITE-IMAGE/assets/118707332/73060e6f-4422-4ea4-b582-f8926fd2c819)
 
@@ -73,6 +74,7 @@ cv2.imshow('part image',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+
 Output:
 
 ![image](https://github.com/SASIDEVIvenaram/READ-AND-WRITE-IMAGE/assets/118707332/4b7fa722-abbe-4872-b4a7-600a353647e2)
